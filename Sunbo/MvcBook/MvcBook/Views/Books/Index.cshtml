@@ -1,0 +1,57 @@
+﻿@model IEnumerable<MvcBook.Models.Book>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script>
+    $(function ()
+    {
+        $.ajax({
+            type: "GET",
+            async: true,
+            url: "/Books/GetData",
+            success: function (data) {
+                var dataObj = JSON.parse(data);
+                for (var i = 0; i < dataObj.length; i++) {
+                    var id = dataObj[i].Id;
+                    var name = dataObj[i].Name;
+                    var price = dataObj[i].Price;
+                    var time = new Date(dataObj[i].PublishedDate)
+                    var month = time.getMonth() + 1;
+                    var day = time.getDate();
+                    var month = (month.toString().length == 1) ? ("0" + month) : month;
+                    var day = (day.toString().length == 1) ? ("0" + day) : day;
+                    var result = time.getFullYear() + '/' + month + '/' + day;
+                    var html = "<tr><td>" + name + "</td><td>" + price + "</td><td>" + result +
+                        "<td><a href='/Books/Edit/" + id + "'>Edit</a> | <a href='/Books/Details/" + id + "'>Details</a> | <a href='/Books/Delete/" + id + "'>Delete</a></td></tr>";
+                    $('tbody').prepend(html);
+                }
+            }
+        });
+    })
+</script>
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                PublishedDate
+            </th>
+            <th>
+                Price
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>

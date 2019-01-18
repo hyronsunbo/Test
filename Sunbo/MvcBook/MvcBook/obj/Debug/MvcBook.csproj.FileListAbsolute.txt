@@ -1,0 +1,231 @@
+E:\Book\MvcBook\MvcBook\bin\ApplicationInsights.config
+E:\Book\MvcBook\MvcBook\bin\MvcBook.dll.config
+E:\Book\MvcBook\MvcBook\bin\MvcBook.dll
+E:\Book\MvcBook\MvcBook\bin\MvcBook.pdb
+E:\Book\MvcBook\MvcBook\bin\roslyn\csc.exe
+E:\Book\MvcBook\MvcBook\bin\roslyn\csc.exe.config
+E:\Book\MvcBook\MvcBook\bin\roslyn\csc.rsp
+E:\Book\MvcBook\MvcBook\bin\roslyn\csi.exe
+E:\Book\MvcBook\MvcBook\bin\roslyn\csi.exe.config
+E:\Book\MvcBook\MvcBook\bin\roslyn\csi.rsp
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Book\MvcBook\MvcBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.AppContext.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Collections.Immutable.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Console.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.IO.Compression.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.IO.FileSystem.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.IO.Pipes.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Reflection.Metadata.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Security.AccessControl.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Security.Claims.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.ValueTuple.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Xml.XPath.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Book\MvcBook\MvcBook\bin\roslyn\vbc.exe
+E:\Book\MvcBook\MvcBook\bin\roslyn\vbc.exe.config
+E:\Book\MvcBook\MvcBook\bin\roslyn\vbc.rsp
+E:\Book\MvcBook\MvcBook\bin\roslyn\VBCSCompiler.exe
+E:\Book\MvcBook\MvcBook\bin\roslyn\VBCSCompiler.exe.config
+E:\Book\MvcBook\MvcBook\bin\Antlr3.Runtime.dll
+E:\Book\MvcBook\MvcBook\bin\EntityFramework.dll
+E:\Book\MvcBook\MvcBook\bin\EntityFramework.SqlServer.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.DependencyCollector.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.Web.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.WindowsServer.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.ApplicationInsights.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Book\MvcBook\MvcBook\bin\Microsoft.Web.Infrastructure.dll
+E:\Book\MvcBook\MvcBook\bin\Newtonsoft.Json.dll
+E:\Book\MvcBook\MvcBook\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.Helpers.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.Mvc.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.Optimization.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.Razor.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.WebPages.Deployment.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.WebPages.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.WebPages.Razor.dll
+E:\Book\MvcBook\MvcBook\bin\WebGrease.dll
+E:\Book\MvcBook\MvcBook\bin\EntityFramework.xml
+E:\Book\MvcBook\MvcBook\bin\EntityFramework.SqlServer.xml
+E:\Book\MvcBook\MvcBook\bin\System.Web.Helpers.xml
+E:\Book\MvcBook\MvcBook\bin\System.Web.Mvc.xml
+E:\Book\MvcBook\MvcBook\bin\System.Web.Optimization.xml
+E:\Book\MvcBook\MvcBook\bin\System.Web.Razor.xml
+E:\Book\MvcBook\MvcBook\bin\System.Web.WebPages.xml
+E:\Book\MvcBook\MvcBook\bin\System.Web.WebPages.Deployment.xml
+E:\Book\MvcBook\MvcBook\bin\System.Web.WebPages.Razor.xml
+E:\Book\MvcBook\MvcBook\bin\Newtonsoft.Json.xml
+E:\Book\MvcBook\MvcBook\bin\Antlr3.Runtime.pdb
+E:\Book\MvcBook\MvcBook\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.DependencyCollector.xml
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.WindowsServer.xml
+E:\Book\MvcBook\MvcBook\bin\Microsoft.AI.Web.xml
+E:\Book\MvcBook\MvcBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.Helpers.resources.dll
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.Mvc.resources.dll
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.Optimization.resources.dll
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.Razor.resources.dll
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.WebPages.resources.dll
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.WebPages.Deployment.resources.dll
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.WebPages.Razor.resources.dll
+E:\Book\MvcBook\MvcBook\obj\Debug\MvcBook.csprojAssemblyReference.cache
+E:\Book\MvcBook\MvcBook\obj\Debug\MvcBook.csproj.CoreCompileInputs.cache
+E:\Book\MvcBook\MvcBook\obj\Debug\MvcBook.csproj.CopyComplete
+E:\Book\MvcBook\MvcBook\obj\Debug\MvcBook.dll
+E:\Book\MvcBook\MvcBook\obj\Debug\MvcBook.pdb
+E:\Book\MvcBook\MvcBook\obj\Debug\MvcBook.Migrations.InitialMigration.resources
+E:\Book\MvcBook\MvcBook\obj\Debug\MvcBook.csproj.GenerateResource.cache
+E:\Book\MvcBook\MvcBook\obj\Debug\MvcBook.Migrations.AddTestColumn.resources
+E:\Book\MvcBook\MvcBook\bin\BookApi.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.Http.dll
+E:\Book\MvcBook\MvcBook\bin\System.Net.Http.Formatting.dll
+E:\Book\MvcBook\MvcBook\bin\System.Web.Http.WebHost.dll
+E:\Book\MvcBook\MvcBook\bin\BookApi.pdb
+E:\Book\MvcBook\MvcBook\bin\BookApi.dll.config
+E:\Book\MvcBook\MvcBook\bin\System.Web.Http.xml
+E:\Book\MvcBook\MvcBook\bin\System.Net.Http.Formatting.xml
+E:\Book\MvcBook\MvcBook\bin\System.Web.Http.WebHost.xml
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.Http.resources.dll
+E:\Book\MvcBook\MvcBook\bin\ja\System.Net.Http.Formatting.resources.dll
+E:\Book\MvcBook\MvcBook\bin\ja\System.Web.Http.WebHost.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ApplicationInsights.config
+E:\Book\MvcBook - コピー\MvcBook\bin\MvcBook.dll.config
+E:\Book\MvcBook - コピー\MvcBook\bin\MvcBook.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\MvcBook.pdb
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\csc.exe
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\csc.exe.config
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\csc.rsp
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\csi.exe
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\csi.exe.config
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\csi.rsp
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.AppContext.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Collections.Immutable.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Console.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.IO.Compression.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.IO.FileSystem.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.IO.Pipes.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Reflection.Metadata.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Security.AccessControl.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Security.Claims.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.ValueTuple.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Xml.XPath.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\vbc.exe
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\vbc.exe.config
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\vbc.rsp
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\VBCSCompiler.exe
+E:\Book\MvcBook - コピー\MvcBook\bin\roslyn\VBCSCompiler.exe.config
+E:\Book\MvcBook - コピー\MvcBook\bin\Antlr3.Runtime.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\BookApi.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\EntityFramework.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\EntityFramework.SqlServer.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.DependencyCollector.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.Web.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.WindowsServer.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.ApplicationInsights.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.Web.Infrastructure.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\Newtonsoft.Json.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Helpers.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Mvc.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Optimization.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Razor.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.WebPages.Deployment.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.WebPages.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.WebPages.Razor.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\WebGrease.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Net.Http.Formatting.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Http.WebHost.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\BookApi.pdb
+E:\Book\MvcBook - コピー\MvcBook\bin\BookApi.dll.config
+E:\Book\MvcBook - コピー\MvcBook\bin\EntityFramework.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\EntityFramework.SqlServer.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Helpers.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Mvc.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Optimization.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Razor.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.WebPages.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.WebPages.Deployment.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.WebPages.Razor.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\Newtonsoft.Json.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\Antlr3.Runtime.pdb
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.DependencyCollector.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.WindowsServer.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.AI.Web.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Net.Http.Formatting.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\System.Web.Http.WebHost.xml
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Web.Helpers.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Web.Mvc.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Web.Optimization.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Web.Razor.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Web.WebPages.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Web.WebPages.Deployment.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Web.WebPages.Razor.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Net.Http.Formatting.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\bin\ja\System.Web.Http.WebHost.resources.dll
+E:\Book\MvcBook - コピー\MvcBook\obj\Debug\MvcBook.csprojAssemblyReference.cache
+E:\Book\MvcBook - コピー\MvcBook\obj\Debug\MvcBook.Migrations.InitialMigration.resources
+E:\Book\MvcBook - コピー\MvcBook\obj\Debug\MvcBook.Migrations.AddTestColumn.resources
+E:\Book\MvcBook - コピー\MvcBook\obj\Debug\MvcBook.csproj.GenerateResource.cache
+E:\Book\MvcBook - コピー\MvcBook\obj\Debug\MvcBook.csproj.CoreCompileInputs.cache
+E:\Book\MvcBook - コピー\MvcBook\obj\Debug\MvcBook.csproj.CopyComplete
+E:\Book\MvcBook - コピー\MvcBook\obj\Debug\MvcBook.dll
+E:\Book\MvcBook - コピー\MvcBook\obj\Debug\MvcBook.pdb

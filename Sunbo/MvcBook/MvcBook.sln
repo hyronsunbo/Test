@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcBook", "MvcBook\MvcBook.csproj", "{2B3FFD35-3B95-4D85-AC2E-1F21538E41B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookApi", "BookApi\BookApi.csproj", "{35AAA4E6-912E-44AC-9191-8A8B707ACB50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcBookTests", "MvcBookTests\MvcBookTests.csproj", "{8F649C65-8BF2-44D0-82D6-DE4D70300F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3FFD35-3B95-4D85-AC2E-1F21538E41B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3FFD35-3B95-4D85-AC2E-1F21538E41B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3FFD35-3B95-4D85-AC2E-1F21538E41B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3FFD35-3B95-4D85-AC2E-1F21538E41B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AAA4E6-912E-44AC-9191-8A8B707ACB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AAA4E6-912E-44AC-9191-8A8B707ACB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AAA4E6-912E-44AC-9191-8A8B707ACB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AAA4E6-912E-44AC-9191-8A8B707ACB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F649C65-8BF2-44D0-82D6-DE4D70300F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F649C65-8BF2-44D0-82D6-DE4D70300F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F649C65-8BF2-44D0-82D6-DE4D70300F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F649C65-8BF2-44D0-82D6-DE4D70300F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44C16BF2-6F19-4CF8-961D-02F5335153D5}
+	EndGlobalSection
+EndGlobal
